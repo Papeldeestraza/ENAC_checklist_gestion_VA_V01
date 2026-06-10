@@ -1,0 +1,17 @@
+{
+  "name": "Gestión de VA · ENAC",
+  "short_name": "VA ENAC",
+  "description": "Checklist de gestión de Visitas de Acompañamiento (NT-82 Rev.6 · NO-04-05 · ISO/IEC 17020).",
+  "lang": "es",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f9",
+  "theme_color": "#002147",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
